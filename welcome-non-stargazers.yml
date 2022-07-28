@@ -14,5 +14,4 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           autoclose: false
           message: |
-            If you're enjoying Awesome-Privacy, consider dropping us a ⭐<br>
             _<sub>🤖 I'm a bot, and this message was automated</sub>_
